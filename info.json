@@ -1,0 +1,7 @@
+{
+    "participants": ["Yohan Toledo"],
+    "social": ["https://github.com/YohanToledo"],
+    "source-code-repo": "https://github.com/YohanToledo/rinha-backend-2026-c",
+    "stack": ["c", "avx2", "simd", "epoll", "nginx", "docker"],
+    "open_to_work": true
+}
