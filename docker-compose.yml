@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   api1: &api
-    build: .
+    image: yohantoledo/rinha-backend-2026-c:v1
     hostname: api1
     environment:
       - PORT=8080
